@@ -1,3 +1,6 @@
+# Evently-
+Evently is a full-stack event management platform built with Next.js, Tailwind CSS, Node.js, and MongoDB. Features include user auth (Clerk), payments (Stripe), dynamic event dashboard, and a clean UI (ShadCN). 
+
 <div align="center">
   <br />
     <a href="https://youtu.be/zgGhzuBZOQg" target="_blank">
